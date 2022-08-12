@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Course Name"
+    title = "DAD 492: Programming for Sound Designers"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
@@ -50,8 +50,8 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Course name"
-      logoHomeLink = "/"
+      logoText = " DAD 492: Programming for Sound Designers"
+      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-22-dad-492-programming-for-sound-designers/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

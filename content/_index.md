@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: " DAD 492: Programming for Sound Designers"
 ---
 
 ![placeholder.png](https://loremflickr.com/320/240)
