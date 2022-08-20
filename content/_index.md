@@ -2,6 +2,8 @@
 title: " DAD 492: Programming for Sound Designers"
 ---
 
-![placeholder.png](https://loremflickr.com/320/240)
+![placeholder.png](https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png)
 
-Veniam anim eiusmod culpa sunt incididunt sint. Anim ex non ad labore ut in velit in non culpa aliquip. Fugiat incididunt esse eu labore ipsum officia. Tempor proident velit duis nostrud laborum reprehenderit laboris ullamco aliqua commodo sint. Nisi laborum sint ex est minim mollit irure veniam commodo ad. Cupidatat id pariatur id veniam non qui elit voluptate non officia.
+An introduction to audio coding and digital music composition using the Web Audio API.
+Students will complete guided exercises, assignments, and composition projects. A particular
+emphasis is placed on interaction to encourage listener engagement.
