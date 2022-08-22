@@ -6,21 +6,22 @@ author: ""
 
 {{< toc >}}
 
-
 # Week 1 (8/22) - Introduction to coding and creativity
 
+## Tuesday
+
 - Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
-- [Why Interaction?](https://tambien.github.io/InteractiveMusic/module/why_interaction) - Why code, interact, why use the web?
-- [Yotam Examples](https://tambien.github.io/InteractiveMusic/module/examples) of interactions with music in space and on the web.
-- [My examples](x-devonthink-item://9733BB3B-DC77-4EC7-9D8F-F711504AD792)
-- [Assignment 1: Manifesto Project](assignments/assignment-1-manifesto)
+- [Web Audio Examples](../lectures/week-1/examples/)
 
 ## Thursday
 
-Census Day
+<!-- - [Why Interaction?](https://tambien.github.io/InteractiveMusic/module/why_interaction) - Why code, interact, why use the web?
+- [Yotam Examples](https://tambien.github.io/InteractiveMusic/module/examples) of interactions with music in space and on the web.
+- [Assignment 1: Manifesto Project](assignments/assignment-1-manifesto) -->
 
 <!-- # Week 2 (8/29) - Score as code, code as score
 
+Census Day
 - Intro to JavaScript - Numbers, Strings, Arrays, Objects, Functions, and Variables, scope, running code with a server. I won't overly focus on the CS aspects of this, just teach enough for them to be able to create projects.
 - Show the console.
 - Web audio basics and sound file players - [slides](https://lsu-pdm-2021.netlify.com/week_1_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
@@ -92,7 +93,7 @@ Assignment 5 DUE
 # Week 10 (10/24) - More weird synthesis
 
 - [Audio analysis](https://tambien.github.io/InteractiveMusic/module/analysis)
-	- [meyda](https://github.com/meyda/meyda) 
+	- [meyda](https://github.com/meyda/meyda)
 - [Granular-js](https://github.com/philippfromme/granular-js)
 - [Paulstretch.js](https://github.com/sebpiq/paulstretch.js)
 - [Magenta.js](https://magenta.tensorflow.org/get-started)
@@ -138,4 +139,3 @@ Thanksgiving - No classes
 ## Thursday
 
 Start of final exams -->
-
