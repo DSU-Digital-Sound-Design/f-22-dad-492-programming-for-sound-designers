@@ -15,9 +15,9 @@ author: ""
 
 ## Thursday
 
-<!-- - [Why Interaction?](https://tambien.github.io/InteractiveMusic/module/why_interaction) - Why code, interact, why use the web?
-- [Yotam Examples](https://tambien.github.io/InteractiveMusic/module/examples) of interactions with music in space and on the web.
-- [Assignment 1: Manifesto Project](assignments/assignment-1-manifesto) -->
+- [Why Interaction?](../lectures/week-1/why-interaction/) - Why code, interact, why use the web?
+- [Interaction examples](../lectures/week-1/more-examples/) of interactions with music in space and on the web.
+- [Assignment 1: Manifesto Project](../projects/assignment-1-manifesto/)
 
 <!-- # Week 2 (8/29) - Score as code, code as score
 
