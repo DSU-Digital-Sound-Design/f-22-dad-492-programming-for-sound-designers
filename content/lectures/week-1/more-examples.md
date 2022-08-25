@@ -54,6 +54,8 @@ What are the affordances/constraints that an art has versus a web based project?
 
 ## Web
 
+[Human Record Player](https://humanrecordplayer.com)
+
 #### [Ticket](https://www.youtube.com/watch?v=zUw79YA71pg) - Morgan Packard & Josh Ott - 2010
 
 - Four interactive "songs"
