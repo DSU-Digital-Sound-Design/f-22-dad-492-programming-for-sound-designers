@@ -23,13 +23,13 @@ author: ""
 
 ## Tuesday
 
-- sign up for a [CodePen](https://codepen.io/) account
 - Intro to JavaScript - Numbers, Strings, Arrays, Objects, Functions, and Variables, scope
   - [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) basic javascript
 - Show the console.
 
 ## Thursday
 
+- sign up for a [CodePen](https://codepen.io/) account
 - Web audio basics and sound file players - [slides](https://lsu-pdm-2021.netlify.com/week_1_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
 
 <!--
