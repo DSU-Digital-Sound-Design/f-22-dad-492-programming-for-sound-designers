@@ -19,12 +19,20 @@ author: ""
 - [Interaction examples](../lectures/week-1/more-examples/) of interactions with music in space and on the web.
 - [Assignment 1: Manifesto Project](../projects/assignment-1-manifesto/)
 
-<!-- # Week 2 (8/29) - Score as code, code as score
+# Week 2 (8/29) - Score as code, code as score
 
-Census Day
-- Intro to JavaScript - Numbers, Strings, Arrays, Objects, Functions, and Variables, scope, running code with a server. I won't overly focus on the CS aspects of this, just teach enough for them to be able to create projects.
+## Tuesday
+
+- sign up for a [CodePen](https://codepen.io/) account
+- Intro to JavaScript - Numbers, Strings, Arrays, Objects, Functions, and Variables, scope
+  - [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) basic javascript
 - Show the console.
+
+## Thursday
+
 - Web audio basics and sound file players - [slides](https://lsu-pdm-2021.netlify.com/week_1_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
+
+<!--
 
 # Week 3 (9/5) - Interfaces
 
