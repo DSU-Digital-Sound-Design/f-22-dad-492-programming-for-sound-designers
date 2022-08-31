@@ -29,10 +29,7 @@ author: ""
 
 ## Thursday
 
-- sign up for a [CodePen](https://codepen.io/) account
-- Web audio basics and sound file players - [slides](../lectures/week-2/web-audio-basics/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
-
-> [Project 1: Sampler](../projects/project-1-sampler/)
+- Web audio basics and sound file players - [slides](../lectures/week-2/web-audio-basics/)
 
 <!--
 
@@ -44,6 +41,8 @@ author: ""
   - Introduction to p5.js - we'll learn p5.js to create interfaces for our interactive music.
 - **Project 1 - Build a sampler**
   - [Scores](https://tambien.github.io/InteractiveMusic/module/scores) - an introduction to experimental music scores and a comparison to code as a score. The similarity is that they're both series of instructions that produce a piece of music.
+
+> [Project 1: Sampler](../projects/project-1-sampler/)
 
 # Week 4 (9/12) - Synthesis in Tone.js
 
