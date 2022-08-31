@@ -30,7 +30,9 @@ author: ""
 ## Thursday
 
 - sign up for a [CodePen](https://codepen.io/) account
-- Web audio basics and sound file players - [slides](https://lsu-pdm-2021.netlify.com/week_1_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
+- Web audio basics and sound file players - [slides](../lectures/week-2/web-audio-basics/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/1_lesson_1/)
+
+> [Project 1: Sampler](../projects/project-1-sampler/)
 
 <!--
 
