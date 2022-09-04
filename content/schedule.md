@@ -31,19 +31,27 @@ author: ""
 
 - Web audio basics and sound file players - [slides](../lectures/week-2/web-audio-basics/)
 
-<!--
-
 # Week 3 (9/5) - Interfaces
 
+## Tuesday
+
+- Manifestos are graded - lots of inspiring ideas in there
+- [Audio Effects](../lectures/week-3/audio-effects/)
+  - https://github.com/tatecarson/LSU-PDM-Spring-2021/blob/main/Week_1_Th/slides.md
+  - [https://pdm.lsupathways.org/3_audio/1_sampler/2_lesson_2/](https://github.com/lsu-ddem/pathways-site/blob/10d5d1dc01100f5691316cf301865aacd350e81a/content/3_Audio/1_Sampler/2_Lesson_2/index.md)
 - [Examples of interfaces](https://tambien.github.io/InteractiveMusic/module/musical_interfaces) - how have interfaces been built in the past?
   - How do you deal with [mapping](https://tambien.github.io/InteractiveMusic/module/gesture_mapping) when developing interfaces?
   - What are some [design rules](https://tambien.github.io/InteractiveMusic/module/interface_design) for designing interfaces?
   - Introduction to p5.js - we'll learn p5.js to create interfaces for our interactive music.
+
+## Thursday
+
 - **Project 1 - Build a sampler**
   - [Scores](https://tambien.github.io/InteractiveMusic/module/scores) - an introduction to experimental music scores and a comparison to code as a score. The similarity is that they're both series of instructions that produce a piece of music.
 
-> [Project 1: Sampler](../projects/project-1-sampler/)
+> [Project 1: Sampler](../projects/project-1-sampler/) - build a sampler and perform your score, reference back to your manifesto for inspiration
 
+<!--
 # Week 4 (9/12) - Synthesis in Tone.js
 
 Project 1 DUE
