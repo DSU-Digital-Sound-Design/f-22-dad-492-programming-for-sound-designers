@@ -44,17 +44,17 @@ author: ""
 
 **Interfaces and scores**
 
-- [Examples of interfaces](https://tambien.github.io/InteractiveMusic/module/musical_interfaces) - how have interfaces been built in the past?
-  - How do you deal with [mapping](https://tambien.github.io/InteractiveMusic/module/gesture_mapping) when developing interfaces?
-  - What are some [design rules](https://tambien.github.io/InteractiveMusic/module/interface_design) for designing interfaces?
-  - Introduction to p5.js - we'll learn p5.js to create interfaces for our interactive music.
-  - [Scores](https://tambien.github.io/InteractiveMusic/module/scores) - an introduction to experimental music scores and a comparison to code as a score. The similarity is that they're both series of instructions that produce a piece of music.
+- [Musical Interfaces](../lectures/week-3/musical-interfaces/)
+- [HackPact](https://stc.github.io/HackPact/)
+- Audio Plugin Interface analysis - let's pick a few plugins and discuss how they meet the standards we just mentioned
+- Extra interface options in p5.js - [DOM](https://p5js.org/reference/#group-DOM)
 
 <!--
 # Week 4 (9/12) - Synthesis in Tone.js
 
 Project 1 DUE
 
+- [Scores](https://tambien.github.io/InteractiveMusic/module/scores) - an introduction to experimental music scores and a comparison to code as a score. The similarity is that they're both series of instructions that produce a piece of music.
 - [Yotam - More Tone.js](https://tambien.github.io/InteractiveMusic/module/tone_2)
 - Adding effects and intro to synthesis - [slides](https://lsu-pdm-2021.netlify.com/week_1_th/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/2_lesson_2/)
 - Making synthesizers from scratch - [slides](https://lsu-pdm-2021.netlify.com/week_2_t/_site/#/)

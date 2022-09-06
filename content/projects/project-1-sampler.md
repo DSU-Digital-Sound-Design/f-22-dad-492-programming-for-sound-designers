@@ -13,10 +13,10 @@ Remember the goal is to be able to trigger multiple sound effects using Tone.Pla
 
 Use [this as a template](https://codesandbox.io/s/tone-p5-template-jo1tgr) if needed.
 
-Create a score and realize it using your sampler instrument. Your realization should be around 1 minute in length.
+Create a piece of music using your sampler instrument. Your realization should be around 1 minute in length.
 
 Items to Submit:
 
 - the CodeSandbox link to your project
-- the score
-- screen recording of your score realization
+- screen recording of your performance
+- a paragraph about the form of the piece and how you realized it with your instrument. What sorts of decisions did you make with your interface in order to create the piece that you wanted?
