@@ -49,17 +49,28 @@ author: ""
 - Audio Plugin Interface analysis - let's pick a few plugins and discuss how they meet the standards we just mentioned
 - Extra interface options in p5.js - [DOM](https://p5js.org/reference/#group-DOM)
 
-<!--
 # Week 4 (9/12) - Synthesis in Tone.js
 
-Project 1 DUE
+<!-- Cover: basic synths, ADSR, filters -->
 
-- [Scores](https://tambien.github.io/InteractiveMusic/module/scores) - an introduction to experimental music scores and a comparison to code as a score. The similarity is that they're both series of instructions that produce a piece of music.
-- [Yotam - More Tone.js](https://tambien.github.io/InteractiveMusic/module/tone_2)
-- Adding effects and intro to synthesis - [slides](https://lsu-pdm-2021.netlify.com/week_1_th/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/1_sampler/2_lesson_2/)
-- Making synthesizers from scratch - [slides](https://lsu-pdm-2021.netlify.com/week_2_t/_site/#/)
-- **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point.
+## Tuesday
 
+- Play through first project recordings
+  - Spend a little bit of time playing each of our instruments in class
+  - Critique the usability of the interfaces
+- Intro to synthesis - [slides](../lectures/week-4/synths-intro/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/1_lesson_1/)
+
+## Thursday
+
+<!-- Cover whatever part we did't get to on Tuesday -->
+
+- Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
+
+<!-- TODO: define this project, should it be due next Tuesday? -->
+
+> **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
+
+<!--
 # Week 5 (9/19) - Process and generative music
 
 Synth from scratch DUE
