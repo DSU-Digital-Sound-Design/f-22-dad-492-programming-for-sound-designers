@@ -51,19 +51,16 @@ author: ""
 
 # Week 4 (9/12) - Synthesis in Tone.js
 
-<!-- Cover: basic synths, ADSR, filters -->
-
 ## Tuesday
+
+- First project debugging
+
+## Thursday
 
 - Play through first project recordings
   - Spend a little bit of time playing each of our instruments in class
   - Critique the usability of the interfaces
 - Intro to synthesis - [slides](../lectures/week-4/synths-intro/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/1_lesson_1/)
-
-## Thursday
-
-<!-- Cover whatever part we did't get to on Tuesday -->
-
 - Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
 
 <!-- TODO: define this project, should it be due next Tuesday? -->
