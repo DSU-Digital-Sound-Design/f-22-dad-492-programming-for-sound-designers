@@ -57,18 +57,20 @@ author: ""
 
 ## Thursday
 
-- Play through first project recordings
-  - Spend a little bit of time playing each of our instruments in class
-  - Critique the usability of the interfaces
-- Intro to synthesis - [slides](../lectures/week-4/synths-intro/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/1_lesson_1/)
-- Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
+- 30 Minutes of project debugging and finishing
+  - at 1:30 turn in your project and we'll spend the rest of class playing each others instruments
+- [Project list](../lectures/week-4/instrument-projects/)
 
-<!-- TODO: define this project, should it be due next Tuesday? -->
-
-> **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
+<!-- Use this as a guide: https://www.guitarland.com/MusicTheoryWithToneJS/TonejsSetup.html -->
 
 <!--
 # Week 5 (9/19) - Process and generative music
+
+- Intro to synthesis - [slides](../lectures/week-4/synths-intro/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/1_lesson_1/)
+- Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
+
+> **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
+
 
 Synth from scratch DUE
 
