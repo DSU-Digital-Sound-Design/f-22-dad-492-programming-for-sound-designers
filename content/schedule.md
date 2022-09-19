@@ -49,7 +49,7 @@ author: ""
 - Audio Plugin Interface analysis - let's pick a few plugins and discuss how they meet the standards we just mentioned
 - Extra interface options in p5.js - [DOM](https://p5js.org/reference/#group-DOM)
 
-# Week 4 (9/12) - Synthesis in Tone.js
+# Week 4 (9/12)
 
 ## Tuesday
 
@@ -63,15 +63,18 @@ author: ""
 
 <!-- Use this as a guide: https://www.guitarland.com/MusicTheoryWithToneJS/TonejsSetup.html -->
 
-<!--
-# Week 5 (9/19) - Process and generative music
+# Week 5 (9/19)
+
+## Tuesday
 
 - Intro to synthesis - [slides](../lectures/week-4/synths-intro/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/1_lesson_1/)
+
+## Thursday
+
 - Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
+  > **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
 
-> **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
-
-
+<!--
 Synth from scratch DUE
 
 - [Process Music](https://tambien.github.io/InteractiveMusic/module/process_music) - music created from a series of instructions
@@ -82,7 +85,7 @@ Synth from scratch DUE
 - **create score** - Create a hand-drawn or computer-generated graphical score. This doesn't need to be artistic, just something that will inspire a piece of music for a project later in the semester.
 - **Project 3 - [Realize](https://tambien.github.io/InteractiveMusic/assignment/midterm_1) your score as code** - take part of [PDM scoring an image](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/4_lesson_4/)
 
-# Week 6 (9/26) - More musical complexity
+# Week 6 (9/26) -  Process and generative music, More musical complexity
 
 - Rhythm / Scales / Tuning / - [slides](https://lsu-pdm-2021.netlify.com/week_4_t/_static/#/)
 - More patterns with [total-serialism](https://github.com/tmhglnd/total-serialism)
