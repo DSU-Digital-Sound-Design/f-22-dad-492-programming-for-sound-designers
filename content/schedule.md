@@ -71,10 +71,14 @@ author: ""
 
 ## Thursday
 
+- Class Canceled - DSU Days of Service
+
+<!--
+TODO: make continue this on next tuesday and make the project
+
 - Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
   > **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
 
-<!--
 Synth from scratch DUE
 
 - [Process Music](https://tambien.github.io/InteractiveMusic/module/process_music) - music created from a series of instructions
