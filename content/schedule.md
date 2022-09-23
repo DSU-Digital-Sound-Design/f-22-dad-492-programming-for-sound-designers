@@ -73,6 +73,14 @@ author: ""
 
 - Class Canceled - DSU Days of Service
 
+# Week 6 (9/26) - Process and generative music, More musical complexity
+
+## Tuesday
+
+- Keep working on synth user interface assignment from last week
+  - show dealing with the DOM more effectively in p5.js
+- Turn in work at the end of class.
+
 <!--
 TODO: make continue this on next tuesday and make the project
 
