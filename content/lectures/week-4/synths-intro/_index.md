@@ -49,7 +49,12 @@ Look through the [synth examples](https://tonejs.github.io/examples/) and add th
 
 ### Synth presets demo
 
-<iframe src="https://uztggg.csb.app/"></iframe>
+<iframe src="https://tatecarson.github.io/synth-picker-demo/"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="synth intro"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
 ---
 
