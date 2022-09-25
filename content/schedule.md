@@ -73,16 +73,17 @@ author: ""
 
 - Class Canceled - DSU Days of Service
 
-# Week 6 (9/26) - Process and generative music, More musical complexity
+# Week 6 (9/26) - more synthesis
 
 ## Tuesday
+
+<!-- TODO: create a participation grade for this in d2l -->
 
 - Keep working on synth user interface assignment from last week
   - show dealing with the DOM more effectively in p5.js
 - Turn in work at the end of class.
 
 <!--
-TODO: make continue this on next tuesday and make the project
 
 - Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
   > **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
