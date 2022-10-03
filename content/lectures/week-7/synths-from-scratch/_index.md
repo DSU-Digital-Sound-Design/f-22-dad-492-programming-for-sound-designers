@@ -37,13 +37,12 @@ The most basic unit of synthesis in tone is [Tone.Oscillator](https://tonejs.git
 
 ---
 
-## Enevelopes
+## Envelopes
 
 - [Tone example](https://tonejs.github.io/examples/envelope.html)
 - [Learning Synths - Envelopes](https://learningsynths.ableton.com/en/envelopes/change-over-time)
 
-<!-- TODO: add in image of ADSR here!! -->
-<img src="adsr.png" width="70%">
+<img src="adsr.jpg" width="70%">
 
 ---
 
@@ -63,8 +62,7 @@ The most basic unit of synthesis in tone is [Tone.Oscillator](https://tonejs.git
 
 ---
 
-<!-- source: computer music tutorial pg 188 - Roads -->
-<img src="fourCommonFilters.png" width="65%">
+![](Davis_intro_to_filters_filter_types-3873850502.jpg)
 
 ---
 
@@ -89,7 +87,9 @@ The most basic unit of synthesis in tone is [Tone.Oscillator](https://tonejs.git
 
 ---
 
-<img src="colors-of-noise.webp">
+![](ColorNoise.gif)
+
+[Link](https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199922963/Chapter2.html)
 
 ---
 
@@ -101,25 +101,29 @@ The most basic unit of synthesis in tone is [Tone.Oscillator](https://tonejs.git
 
 ---
 
-## click left arrow for noise
+## press any key for noise
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="PDM Sound - Tone.Noise remake" src="//codepen.io/lsuddem/embed/VdxRxz/?height=300&theme-id=35490&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/lsuddem/pen/VdxRxz/'>PDM Sound - Tone.Noise remake</a> by LSU DDEM
-  (<a href='https://codepen.io/lsuddem'>@lsuddem</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<iframe src="https://codesandbox.io/embed/noise-synth-981ti4?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Noise Synth "
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
-[starter](https://codepen.io/lsuddem/pen/ZwwBPL?editors=0010)
+[starter](https://codesandbox.io/s/noise-synth-start-x6948r)
 
 ---
 
 ## Envelopes example
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="PDM Sound - Envelopes" src="//codepen.io/lsuddem/embed/OddbRB/?height=300&theme-id=35490&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/lsuddem/pen/OddbRB/'>PDM Sound - Envelopes</a> by LSU DDEM
-  (<a href='https://codepen.io/lsuddem'>@lsuddem</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<iframe src="https://codesandbox.io/embed/envelopes-3hwsdj?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="envelopes"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
-[starter](https://codepen.io/lsuddem/pen/bzzBgZ)
+[starter](https://codesandbox.io/s/envelopes-start-h78jm7?file=%2Fsketch.js)
 
 ---
 

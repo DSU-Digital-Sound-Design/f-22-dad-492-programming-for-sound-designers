@@ -77,16 +77,29 @@ author: ""
 
 ## Tuesday
 
-<!-- TODO: create a participation grade for this in d2l -->
-
 - Keep working on synth user interface assignment from last week
   - show dealing with the DOM more effectively in p5.js
 - Turn in work at the end of class.
 
-<!--
+## Thursday
 
-- Making synthesizers from scratch - [slides](../lectures/week-4/synths-from-scratch/)
-  > **Project 2 - Creating a synthesizer from scratch** - additive, subtractive, FM, AM? Make four presets for each synthesizer as objects. Name the presets something descriptive. You can use the [default presets](https://tonejs.github.io/Presets/) as a starting point. Due 9/20
+- Finish the interface
+
+# Week 7 (10/3)
+
+## Tuesday
+
+- Making synthesizers from scratch - [slides](../lectures/week-7/synths-from-scratch/)
+
+> Project 2 - [Creating a synthesizer from scratch](../projects/project-2-synth-from-scratch/)
+> Use [Guitar Land](https://www.guitarland.com/MusicTheoryWithToneJS/Presets-gh-pages/) for inspo.
+
+## Thursday - adding to the synth
+
+- Look at the MonoSynth in more detail
+- work on project in class
+
+<!--
 
 Synth from scratch DUE
 
@@ -98,7 +111,7 @@ Synth from scratch DUE
 - **create score** - Create a hand-drawn or computer-generated graphical score. This doesn't need to be artistic, just something that will inspire a piece of music for a project later in the semester.
 - **Project 3 - [Realize](https://tambien.github.io/InteractiveMusic/assignment/midterm_1) your score as code** - take part of [PDM scoring an image](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/4_lesson_4/)
 
-# Week 6 (9/26) -  Process and generative music, More musical complexity
+# Week 6 (9/26) - Process and generative music, More musical complexity
 
 - Rhythm / Scales / Tuning / - [slides](https://lsu-pdm-2021.netlify.com/week_4_t/_static/#/)
 - More patterns with [total-serialism](https://github.com/tmhglnd/total-serialism)
@@ -135,7 +148,7 @@ Assignment 5 DUE
 # Week 10 (10/24) - More weird synthesis
 
 - [Audio analysis](https://tambien.github.io/InteractiveMusic/module/analysis)
-	- [meyda](https://github.com/meyda/meyda)
+  - [meyda](https://github.com/meyda/meyda)
 - [Granular-js](https://github.com/philippfromme/granular-js)
 - [Paulstretch.js](https://github.com/sebpiq/paulstretch.js)
 - [Magenta.js](https://magenta.tensorflow.org/get-started)
