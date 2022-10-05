@@ -91,7 +91,7 @@ author: ""
 
 - Making synthesizers from scratch - [slides](../lectures/week-7/synths-from-scratch/)
 
-> Project 2 - [Creating a synthesizer from scratch](../projects/project-2-synth-from-scratch/)
+> Project 2 - [Creating a synthesizer from scratch](../projects/project-2-synth-from-scratch/) - DUE October 13
 > Use [Guitar Land](https://www.guitarland.com/MusicTheoryWithToneJS/Presets-gh-pages/) for inspo.
 
 ## Thursday - adding to the synth
