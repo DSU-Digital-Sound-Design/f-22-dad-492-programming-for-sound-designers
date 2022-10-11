@@ -99,13 +99,28 @@ author: ""
 - Look at the MonoSynth in more detail
 - work on project in class
 
+# Week 8 (10/10)
+
+## Tuesday
+
+- Work more on MonoSynth project in class
+
+## Thursday
+
+<!-- TODO: finish the autopanner example -->
+
+- Work more on MonoSynth project in class
+- Scheduling signals and LFOs - [slides](../lectures/week-8/scheduling-signals/)
+- In class - add an LFO module to your MonoSynth project
+
+> Project 2: MonoSynth remake Due
+
 <!--
 
 Synth from scratch DUE
 
 - [Process Music](https://tambien.github.io/InteractiveMusic/module/process_music) - music created from a series of instructions
 - [Randomization and patterns](https://tambien.github.io/InteractiveMusic/module/randomization)
-- Scheduling signals and LFOs - [slides](https://lsu-pdm-2021.netlify.com/week_2_th/_site/#/)
 - Instruments and Sequencers - [slides](https://lsu-pdm-2021.netlify.com/week_3_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/2_lesson_2/)
 - Sound Effects and Sequencers - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/)
 - **create score** - Create a hand-drawn or computer-generated graphical score. This doesn't need to be artistic, just something that will inspire a piece of music for a project later in the semester.
