@@ -107,9 +107,6 @@ author: ""
 
 ## Thursday
 
-<!-- TODO: finish the autopanner example -->
-
-- Work more on MonoSynth project in class
 - Scheduling signals and LFOs - [slides](../lectures/week-8/scheduling-signals/)
 - In class - add an LFO module to your MonoSynth project
 
