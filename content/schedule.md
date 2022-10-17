@@ -107,10 +107,29 @@ author: ""
 
 ## Thursday
 
+- Work more on MonoSynth project in class
+
+> Project 2: MonoSynth remake Due
+
+# Week 9 (10/17)
+
+## Tuesday
+
+- You should have your MonoSynth remake turned in
 - Scheduling signals and LFOs - [slides](../lectures/week-8/scheduling-signals/)
 - In class - add an LFO module to your MonoSynth project
 
-> Project 2: MonoSynth remake Due
+## Thursday
+
+- Sequencing notes - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/)
+
+<!-- Week 10
+- Synth tour - [slides](https://lsu-pdm-2021.netlify.com/week_3_t/_site/#/)
+
+Next Project: scoring a short animation, use createVideo()
+
+ex: https://vimeo.com/124637284
+ -->
 
 <!--
 
@@ -118,8 +137,7 @@ Synth from scratch DUE
 
 - [Process Music](https://tambien.github.io/InteractiveMusic/module/process_music) - music created from a series of instructions
 - [Randomization and patterns](https://tambien.github.io/InteractiveMusic/module/randomization)
-- Instruments and Sequencers - [slides](https://lsu-pdm-2021.netlify.com/week_3_t/_site/#/), [textbook](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/2_lesson_2/)
-- Sound Effects and Sequencers - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/)
+
 - **create score** - Create a hand-drawn or computer-generated graphical score. This doesn't need to be artistic, just something that will inspire a piece of music for a project later in the semester.
 - **Project 3 - [Realize](https://tambien.github.io/InteractiveMusic/assignment/midterm_1) your score as code** - take part of [PDM scoring an image](https://pdm.lsupathways.org/3_audio/2_synthsandmusic/4_lesson_4/)
 
