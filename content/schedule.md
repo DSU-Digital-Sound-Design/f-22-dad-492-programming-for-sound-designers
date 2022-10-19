@@ -121,7 +121,12 @@ author: ""
 
 ## Thursday
 
-- Sequencing notes - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/)
+- Implement a step sequencer on your synth project using setValueAtTime to change the frequency of each step as you hold down the key. Create sliders that allow the user to modify the notes each step plays. Also, allow the user to pick the step count and step speed.
+- Things to know: [for loops](https://www.freecodecamp.org/news/javascript-for-loops/) (and nested for loops), arrays, [frequency to MIDI conversion](https://tonejs.github.io/docs/14.7.77/fn/Frequency)
+
+<!--
+Next week
+- Sequencing notes - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/) -->
 
 <!-- Week 10
 - Synth tour - [slides](https://lsu-pdm-2021.netlify.com/week_3_t/_site/#/)
