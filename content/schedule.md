@@ -133,17 +133,36 @@ author: ""
 
 ## Thursday
 
-- Sequencing notes - [slides](https://lsu-pdm-2021.netlify.com/week_3_th/_site/#/) -->
+- Build a step sequencer with Tone.Loop
+
+# Week 11 (10/31)
+
+## Tuesday
+
+- Sequencing notes - [slides](../lectures/week-10/sequencing-notes/)
+  Rhythm / Scales / Tuning /
+
+## Thursday
+
+Generative music
 
 <!--
-Next week
+Sound and viz
 
-<!-- Week 10
-- Synth tour - [slides](https://lsu-pdm-2021.netlify.com/week_3_t/_site/#/)
+## Bubbles with sound
 
-Next Project: scoring a short animation, use createVideo()
+<iframe height="490" style="width: 100%;" scrolling="no" title="Bubbles with sound!" src="//codepen.io/lsuddem/embed/rROVea/?height=490&theme-id=35490&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/lsuddem/pen/rROVea/'>Bubbles with sound!</a> by LSU DDEM
+  (<a href='https://codepen.io/lsuddem'>@lsuddem</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
-ex: https://vimeo.com/124637284
+ -->
+
+<!--
+
+Week 10 - 12 - sequencing/tuning/matching sound to visuals
+
+Next Project: score a p5.js animation
  -->
 
 <!--
