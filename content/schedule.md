@@ -139,12 +139,13 @@ author: ""
 
 ## Tuesday
 
-- Sequencing notes - [slides](../lectures/week-10/sequencing-notes/)
-  Rhythm / Scales / Tuning /
+- [Sequencing notes](../lectures/week-11/sequencing-notes/)
+- Rhythm / Scales / Tuning /
 
 ## Thursday
 
-Generative music
+- [Sequencing Notes - pt 2](../lectures/week-11/sequencing-notes-2/)
+  Generative music
 
 <!--
 Sound and viz
