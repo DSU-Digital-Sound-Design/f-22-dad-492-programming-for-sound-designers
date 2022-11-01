@@ -83,16 +83,3 @@ separator = "##"
    ></iframe>
 
 [starter](https://codesandbox.io/s/tone-transport-event-start-mfqdv6?file=%2Fsketch.js)
-
----
-
-## Rain on a tin roof
-
-<iframe src="https://codesandbox.io/embed/rain-on-a-tin-roof-0ylzwl?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Rain on a tin roof"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-[starter](https://codesandbox.io/s/rain-on-a-tin-roof-start-cmb2jk?file=%2Fsketch.js)

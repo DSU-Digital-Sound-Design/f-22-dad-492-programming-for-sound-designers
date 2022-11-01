@@ -1,54 +1,11 @@
 +++
-title = "Sequencing - 2"
+title = "Sequencing - 3"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 separator = "##"
 +++
-
-## Rain on a tin roof
-
-<iframe src="https://codesandbox.io/embed/rain-on-a-tin-roof-0ylzwl?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Rain on a tin roof"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-[starter](https://codesandbox.io/s/rain-on-a-tin-roof-start-cmb2jk?file=%2Fsketch.js)
-
----
-
-## Part
-
-- collection Tone.Events which can be started/stopped and looped as a single unit.
-
-<iframe src="https://codesandbox.io/embed/tone-transport-part-gcel2p?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Tone.Transport - Part"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-[starter](https://codesandbox.io/s/tone-transport-part-starter-gcijvf?file=%2Fsketch.js)
-
----
-
-## Sequence
-
-- alternate notation of a part
-
-<iframe src="https://codesandbox.io/embed/tone-transport-sequence-msq1lw?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Tone.Transport - Sequence"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-[starter](https://codesandbox.io/s/tone-transport-sequence-start-w4smpu?file=%2Fsketch.js)
-
----
 
 ## Loop
 

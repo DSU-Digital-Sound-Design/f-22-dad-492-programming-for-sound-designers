@@ -140,12 +140,26 @@ author: ""
 ## Tuesday
 
 - [Sequencing notes](../lectures/week-11/sequencing-notes/)
-- Rhythm / Scales / Tuning /
 
 ## Thursday
 
 - [Sequencing Notes - pt 2](../lectures/week-11/sequencing-notes-2/)
-  Generative music
+
+## Week 12
+
+## Tuesday
+
+- [Sequencing Notes - pt 3](../lectures/week-12/sequencing-notes-3/)
+
+> Final project proposal
+
+## Thursday
+
+- Sound with viz
+
+## Week 13 - Final project start
+
+- start working on individual projects, i'll bring in examples based on what each person wants to do
 
 <!--
 Sound and viz
