@@ -145,21 +145,26 @@ author: ""
 
 - [Sequencing Notes - pt 2](../lectures/week-11/sequencing-notes-2/)
 
-## Week 12
+# Week 12
 
 ## Tuesday
 
 - [Sequencing Notes - pt 3](../lectures/week-12/sequencing-notes-3/)
 
-> Final project proposal
+> Final project proposal - Due Monday
+
+> [Final project](../projects/final-project/)
 
 ## Thursday
 
 - Sound with viz
 
-## Week 13 - Final project start
+# Week 13 - Final project start
 
 - start working on individual projects, i'll bring in examples based on what each person wants to do
+- Deploying your project to GitHub.
+- Creating a Read ME for the
+  - this will include a link to the project and your written reflection
 
 <!--
 Sound and viz
