@@ -145,7 +145,7 @@ author: ""
 
 - [Sequencing Notes - pt 2](../lectures/week-11/sequencing-notes-2/)
 
-# Week 12
+# Week 12 (11/7)
 
 ## Tuesday
 
