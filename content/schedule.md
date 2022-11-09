@@ -157,11 +157,10 @@ author: ""
 
 ## Thursday
 
-- Sound with viz
-- Using Tune.js for scales
-- Rhythm - https://github.com/scraggo/tone-rhythm
-- Generative music - https://github.com/tmhglnd/total-serialism
-- Traditional music - https://www.guitarland.com/MusicTheoryWithToneJS/TonejsSetup.html
+- Generative music -
+  - [Total Serialism](https://github.com/tmhglnd/total-serialism)
+  - [Documentation](https://tmhglnd.github.io/total-serialism/)
+  - [Example](https://codesandbox.io/s/simple-melody-5bhlmf?file=%2Fsketch.js)
 
 # Week 13 - Final project start
 
