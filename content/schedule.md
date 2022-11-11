@@ -164,10 +164,24 @@ author: ""
 
 # Week 13 - Final project start
 
+## Tuesday
+
 - start working on individual projects, i'll bring in examples based on what each person wants to do
 - Deploying your project to GitHub.
 - Creating a Read ME for the
   - this will include a link to the project and your written reflection
+
+## Thursday
+
+- In class work on final project - everyone is still required to attend
+
+# Week 14, 15
+
+- More in class work on final
+
+# Week 16
+
+- Final: Thursday, December 8th, 1 pm - 3 pm
 
 <!--
 Sound and viz
