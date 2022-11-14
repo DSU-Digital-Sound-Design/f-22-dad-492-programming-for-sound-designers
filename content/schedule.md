@@ -170,6 +170,7 @@ author: ""
 - Deploying your project to GitHub.
 - Creating a Read ME for the
   - this will include a link to the project and your written reflection
+- Layouts - [relative layout](https://codesandbox.io/s/relative-interface-example-7tp3mh), [css grid](https://codesandbox.io/s/p5-css-grid-zlbm4b?file=%2Fcss%2Fscreen.css)
 
 ## Thursday
 
