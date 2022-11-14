@@ -175,6 +175,8 @@ author: ""
 ## Thursday
 
 - In class work on final project - everyone is still required to attend
+- Control - [Tweakpane](https://cocopon.github.io/tweakpane/)
+- LocalStorage - storing data for users locally - [example](https://codesandbox.io/s/local-storage-3lnp9l?file=%2Fsketch.js)
 
 # Week 14, 15
 
