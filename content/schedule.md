@@ -178,7 +178,7 @@ author: ""
 - Using [UserMedia](https://codesandbox.io/s/getusermedia-example-onklo7?file=%2Fsketch.js) for live audio
 - Control - [Tweakpane](https://cocopon.github.io/tweakpane/) - if you want to be able to hide controls
 - LocalStorage - storing data for users locally - [example](https://codesandbox.io/s/local-storage-3lnp9l?file=%2Fsketch.js)
-- More UI elements - [NexusUI](https://nexus-js.github.io/ui/)
+- More UI elements - [NexusUI](https://nexus-js.github.io/ui/) - [Envelope Example](https://codesandbox.io/s/nexusui-envelope-7dr28h?file=%2Fsketch.js)
 
 # Week 14, 15
 
