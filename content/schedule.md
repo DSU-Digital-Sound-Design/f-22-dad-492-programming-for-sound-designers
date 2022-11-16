@@ -167,20 +167,22 @@ author: ""
 ## Tuesday
 
 - start working on individual projects, i'll bring in examples based on what each person wants to do
-- Deploying your project to GitHub.
 - Creating a Read ME for the
   - this will include a link to the project and your written reflection
+- Deploying your project to GitHub.
 - Layouts - [relative layout](https://codesandbox.io/s/relative-interface-example-7tp3mh), [css grid](https://codesandbox.io/s/p5-css-grid-zlbm4b?file=%2Fcss%2Fscreen.css)
 
 ## Thursday
 
 - In class work on final project - everyone is still required to attend
-- Control - [Tweakpane](https://cocopon.github.io/tweakpane/)
+- Using [UserMedia](https://codesandbox.io/s/getusermedia-example-onklo7?file=%2Fsketch.js) for live audio
+- Control - [Tweakpane](https://cocopon.github.io/tweakpane/) - if you want to be able to hide controls
 - LocalStorage - storing data for users locally - [example](https://codesandbox.io/s/local-storage-3lnp9l?file=%2Fsketch.js)
 
 # Week 14, 15
 
 - More in class work on final
+- Should have something built by now and start testing it and making it better.
 
 # Week 16
 
