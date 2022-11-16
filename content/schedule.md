@@ -179,6 +179,7 @@ author: ""
 - Control - [Tweakpane](https://cocopon.github.io/tweakpane/) - if you want to be able to hide controls
 - LocalStorage - storing data for users locally - [example](https://codesandbox.io/s/local-storage-3lnp9l?file=%2Fsketch.js)
 - More UI elements - [NexusUI](https://nexus-js.github.io/ui/) - [Envelope Example](https://codesandbox.io/s/nexusui-envelope-7dr28h?file=%2Fsketch.js)
+- [Webmidi.js](https://webmidijs.org/) - [example](https://codesandbox.io/s/webmidi-n1xgud?file=/sketch.js) - requires chrome
 
 # Week 14, 15
 
