@@ -43,3 +43,5 @@ Your project will be deployed to the web using GitHub and GitHub pages. We'll ta
 - Caleb - [CalebGeb/csb-o10lrw](https://github.com/CalebGeb/csb-o10lrw/)
 - Angela - [agmiller20/csb-psltev](https://github.com/agmiller20/csb-psltev)
 - Hannah - [HannaM1401/csb-ueyg1x](https://github.com/HannaM1401/csb-ueyg1x/)
+- Tomas - [tomas924/csb-zh9erf](https://github.com/tomas924/csb-zh9erf/)
+- Martin - [RottenWhaleCarcass/csb-8nh0br](https://github.com/RottenWhaleCarcass/csb-8nh0br)
