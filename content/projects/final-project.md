@@ -34,3 +34,12 @@ During presentations you will spend a minute or two describing the project your 
 ## Deployment
 
 Your project will be deployed to the web using GitHub and GitHub pages. We'll talk about how to do with in class. In this GitHub project you'll add the Read ME with your project description and a link to a working version of the project.
+
+## Student Projects
+
+- Jason - [Deathaxe-deth/KaiserFinale: Created with CodeSandbox](https://github.com/Deathaxe-deth/KaiserFinale)
+- Colton - [cl3470/csb-zm0qur](https://github.com/cl3470/csb-zm0qur/)
+- Jake - [JacobHoffer/csb-kvbprk](https://github.com/JacobHoffer/csb-kvbprk)
+- Caleb - [CalebGeb/csb-o10lrw](https://github.com/CalebGeb/csb-o10lrw/)
+- Angela - [agmiller20/csb-psltev](https://github.com/agmiller20/csb-psltev)
+- Hannah - [HannaM1401/csb-ueyg1x](https://github.com/HannaM1401/csb-ueyg1x/)
